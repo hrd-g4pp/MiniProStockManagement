@@ -132,5 +132,7 @@ public class StockManagement {
         s.readRecord();
         s.writeRecord();
         s.readRecord();
+        
+        System.out.println("test");
     }
 }
