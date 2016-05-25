@@ -133,6 +133,6 @@ public class StockManagement {
         s.writeRecord();
         s.readRecord();
         
-        System.out.println("test");
+        System.out.println("testing");
     }
 }
