@@ -133,7 +133,11 @@ public class StockManagement {
         s.writeRecord();
         s.readRecord();
         
+<<<<<<< HEAD
         System.out.println("testing.......");
         //:New Update.............
+=======
+        System.out.println("testing....");
+>>>>>>> branch 'master' of https://github.com/hrd-g4pp/MiniProStockManagement.git
     }
 }
