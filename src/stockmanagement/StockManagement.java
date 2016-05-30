@@ -134,5 +134,6 @@ public class StockManagement {
         s.readRecord();
         
         System.out.println("testing.......");
+        //:New Update.............
     }
 }
